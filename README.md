@@ -106,3 +106,17 @@ Don't forget to watch the livestream!
 
 
 Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
+
+## Repository overview
+
+Fork of the GitHub Graduation 2022 community yearbook. Participant entries live in `_data/`; the Node.js GitHub Actions helper validates contributions and connects to GitHub, Airtable, and the education API. The original event instructions below are historical.
+
+## Local use
+
+The workflow helper is in `.github/workflows/src/`. Run `npm ci` in that directory to install its dependencies. Its live workflow requires private service credentials and can review or merge pull requests; inspect configuration before running it against GitHub.
+
+## Author
+
+Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+
+Upstream authors, contributors, licenses, and existing project credits are retained.
