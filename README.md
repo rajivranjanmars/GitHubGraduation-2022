@@ -117,6 +117,6 @@ The workflow helper is in `.github/workflows/src/`. Run `npm ci` in that directo
 
 ## Author
 
-Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+Fork author and maintainer: [Rajiv Ranjan](https://rajivranjan.in).
 
 Upstream authors, contributors, licenses, and existing project credits are retained.
